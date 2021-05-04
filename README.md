@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kcwittth
-- 👀 I’m interested in 3d printing - linxu - rc everything
+- 👀 I’m interested in 3d printing - linux - rc everything
 - 🌱 I’m currently learning freeCAD
 -
 <!---
